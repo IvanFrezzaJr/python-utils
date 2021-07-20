@@ -1,3 +1,3 @@
 <?php
 
-$batata = 2;
+$batata = "3";
