@@ -1,0 +1,11 @@
+
+black
+flake8
+flask-shell-ipython
+ipdb
+ipython
+isort
+pytest
+pytest-flask
+pytest-cov
+python-dotenv
